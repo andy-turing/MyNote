@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Note</string>
+    <string name="introduce_tu_nota">Introduce una nota</string>
+    <string name="guardar">Guardar</string>
+    <string name="borrar">Borrar</string>
+    <string name="nota_borrada">Nota borrada</string>
+    <string name="nota_no_existe">Nota no existe</string>
+    <string name="nota_creada">Nota creada</string>
+    <string name="nota_actualizada">Nota actualizada</string>
+    <string name="crea_nota_primero">Escribe primero</string>
+</resources>
